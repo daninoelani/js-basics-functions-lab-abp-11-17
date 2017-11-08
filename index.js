@@ -1,7 +1,5 @@
 // Code your solution in this file!
-function distanceFromHqInBlocks(x, y) {
-  
-  const x = 43
+function distanceFromHqInBlocks(43, y) {
 
-  return y - x
+  return y - 43
 }
